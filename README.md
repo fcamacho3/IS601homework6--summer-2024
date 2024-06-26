@@ -51,8 +51,7 @@ pytest --num_records=20
 python main.py 5 6 add
 ```
 
-# Note
-All code was written on my own except for .pylintrc and pytest.ini
+
 
 
 
